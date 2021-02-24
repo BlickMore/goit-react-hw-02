@@ -1,8 +1,11 @@
-import logo from "./logo.svg";
-import "./App.css";
+import './App.css';
 
-function App() {
-  return (<></>);
+const App = () => {
+  return (
+    <div>
+      <button>Click Here</button>
+    </div>
+  )
 }
 
 export default App;
